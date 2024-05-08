@@ -1,6 +1,6 @@
 public class Opeadores {
     public static void main(String[] args) {
-        String nomeCompleto = "LINGUAGEM" +" "+ "JAVA"; // + É O OPERADOR DE JUNÇÃO
+        //String nomeCompleto = "LINGUAGEM" +" "+ "JAVA"; // + É O OPERADOR DE JUNÇÃO
 
         String concatenacao ="?";
 
